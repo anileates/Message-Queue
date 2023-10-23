@@ -16,7 +16,8 @@
     "mustache": "^4.2.0",
     "nodemailer": "^6.9.6",
     "performance-now": "^2.1.0",
-    "puppeteer": "^21.4.0"
+    "puppeteer": "^21.4.0",
+    "zeromq": "^6.0.0-beta.17"
   },
   "devDependencies": {
     "@types/amqplib": "^0.10.3",
